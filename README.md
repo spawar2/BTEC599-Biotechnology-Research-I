@@ -1,5 +1,5 @@
 Learning Objectives [# BTEC599-Biotechnology-Research-I](https://pawar1550.wixsite.com/claflin-courses/copy-of-inbre-epscor-ret-2)
-BTEC599 Research I (1 Credit)) 5 students
+BTEC599 Research I (1 Credit)) 5 students https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 
 Research Students GitHub Projects: Student-GitHub-Projects
 
