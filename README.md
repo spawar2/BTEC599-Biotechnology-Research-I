@@ -162,8 +162,8 @@ https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-a6104b66-064c-4cd4
 https://github.com/spawar2/Blood-Cancer-Analysis
 https://e9e98463-8269-4e88-8a40-100f62e9ee37.filesusr.com/ugd/81dd80_df1c4091f3b347009b40bcfe47355aab.docx?dn=Etha%20project%20report.docx![image](https://github.com/spawar2/BTEC599-Biotechnology-Research-I/assets/25118302/26f8c330-443d-42af-a919-b03a02a2e1a8)
 
-Title III and Special Initiative Office SEED Funding, Claflin University: Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) (2024): Total Award (direct and indirect) $8,840.00 Students supported Lierra Rivera and Kalyn Wesby https://www.claflin.edu/
-
+Title III and Special Initiative Office SEED Funding, Claflin University: Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) (2024): Total Award (direct and indirect) $8,840.00 Students supported Lierra Rivera and Kalyn Wesby https://www.claflin.edu/ Role: PI, 100%
+Germari Cull: https://www.linkedin.com/in/germari-cull-a9b980264
 https://github.com/spawar2/BTEC599-Biotechnology-Research-I
 https://www.linkedin.com/in/leiara-rivera-3a3069233
  
