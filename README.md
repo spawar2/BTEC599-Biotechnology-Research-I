@@ -3,7 +3,7 @@ BTEC599/699 Research I (1 Credit)) 5 students https://campuspress.yale.edu/shrik
 
 Research Students GitHub Projects: Student-GitHub-Projects
 
-​https://www.claflin.edu/
+​https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA
 
 Prostrate-Cancer-Biomarker-Analysis: https://github.com/spawar2/Prostrate-Cancer-Biomarker-Analysis
 
