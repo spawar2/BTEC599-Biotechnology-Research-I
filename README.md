@@ -166,6 +166,7 @@ Title III and Special Initiative Office SEED Funding, Claflin University: Biomar
 **Germari Cull: https://www.linkedin.com/in/germari-cull-a9b980264
 https://github.com/spawar2/BTEC599-Biotechnology-Research-I
 https://www.linkedin.com/in/leiara-rivera-3a3069233
+[Claflin University, Orangeburg, South Carolina, USA](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
  
 
 This project was in collaboration with *Ms. A Agrawal, University of Connecticut, Special Program in Medicine (BS/MD), Experiential Learning Program Project: Identifying biomarkers between lymphoma and leukemia cancer patients (Fall 2021). CT STEM and Norwalk Science Fair (Poster).
