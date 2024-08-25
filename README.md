@@ -1,9 +1,9 @@
 Learning Objectives [# BTEC599/699-Biotechnology-Research-I](https://pawar1550.wixsite.com/claflin-courses/copy-of-inbre-epscor-ret-2)
 BTEC599/699 Research I (1 Credit)) 5 students https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 
-Research Students GitHub Projects: Student-GitHub-Projects
+Research Students GitHub Projects: Student-GitHub-Projects.
 
-​https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA
+​https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, USA.
 
 Prostrate-Cancer-Biomarker-Analysis: https://github.com/spawar2/Prostrate-Cancer-Biomarker-Analysis
 
@@ -85,7 +85,7 @@ https://github.com/ndubuisx
 
 **Mr. Emmanuel Ndubuisi, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA.
 
-Thesis: Protein Classification Using Embeddings from Language Models Trained on Amino Acid
+Thesis: Protein Classification Using Embeddings from Language Models Trained on Amino Acid.
 
 Sequences (Fall 2022). Presently software engineer at Microsoft.
 
@@ -162,7 +162,7 @@ https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-a6104b66-064c-4cd4
 https://github.com/spawar2/Blood-Cancer-Analysis
 https://e9e98463-8269-4e88-8a40-100f62e9ee37.filesusr.com/ugd/81dd80_df1c4091f3b347009b40bcfe47355aab.docx?dn=Etha%20project%20report.docx![image](https://github.com/spawar2/BTEC599-Biotechnology-Research-I/assets/25118302/26f8c330-443d-42af-a919-b03a02a2e1a8)
 
-Title III and Special Initiative Office SEED Funding, Claflin University: Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) (2024): Total Award (direct and indirect) $8,840.00 Students supported **Lierra Rivera and **Kalyn Wesby https://www.claflin.edu/ Role: PI, 100%
+Title III and Special Initiative Office SEED Funding, Claflin University: Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) (2024): Total Award (direct and indirect) $8,840.00 Students supported **Lierra Rivera and **Kalyn Wesby https://www.claflin.edu/ Role: PI, 100%.
 **Germari Cull: https://www.linkedin.com/in/germari-cull-a9b980264
 https://github.com/spawar2/BTEC599-Biotechnology-Research-I
 https://www.linkedin.com/in/leiara-rivera-3a3069233
