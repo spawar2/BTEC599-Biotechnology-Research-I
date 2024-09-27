@@ -7,7 +7,7 @@ Research Students GitHub Projects: Student-GitHub-Projects.
 
 Prostrate-Cancer-Biomarker-Analysis: https://github.com/spawar2/Prostrate-Cancer-Biomarker-Analysis
 
-https://www.linkedin.com/in/zion-ratchford-07514b1b9
+https://www.linkedin.com/in/zion-ratchford-07514b1b9  π​++.
 
 https://campuspress.yale.edu/shrikantpawar/files/2024/04/Zion-Presentation-80fd6d81d5b4f75b-rotated-e1712021318501-225x300.jpg
 
@@ -27,7 +27,7 @@ https://github.com/mayor90/thesis
 
 https://campuspress.yale.edu/shrikantpawar/files/2023/12/SCICU-research-poster.pptx
 
-This project in collaboration with **Mr. Owalabi Oluwamayowa (South Carolina Independent Colleges & Universities SCICU award funded project​),  **Priscilla E. Fatokun (South Carolina Independent Colleges & Universities SCICU award funded project), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2023). Project: SMART-HOME proposal “collection and processing of health-care data for African-American subjects from wrist wearable devices.
+This project in collaboration with **Mr. Owalabi Oluwamayowa  π​++.(South Carolina Independent Colleges & Universities SCICU award funded project​),  **Priscilla E. Fatokun  π​++.(South Carolina Independent Colleges & Universities SCICU award funded project), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2023). Project: SMART-HOME proposal “collection and processing of health-care data for African-American subjects from wrist wearable devices.
 
 https://campuspress.yale.edu/shrikantpawar/files/2023/12/SCICU-research-poster.pptx
 
@@ -41,7 +41,7 @@ Thesis presentation: https://youtu.be/NUPr-kXKCaU
 
 ​
 
-**Leiara C. Rivera (Graduate student), Undergraduate student: Claflin University, SOrangeburg, outh Carolina, USA. (Fall 2023). Biomarker discovery.
+**Leiara C. Rivera  π​++.(Graduate student), Undergraduate student: Claflin University, SOrangeburg, outh Carolina, USA. (Fall 2023). Biomarker discovery.
 
 ​
 
@@ -53,7 +53,7 @@ Neural networks on CTA in peripheral arterial diseases (PAD): https://github.com
 
 https://github.com/esther-tk
 
-**Ms. Taonga. Kandiwo (Improving Alignment techniques for DNA sequencing using machine learning), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2023).
+**Ms. Taonga. Kandiwo  π​++.(Improving Alignment techniques for DNA sequencing using machine learning), Undergraduate student: Claflin University, Orangeburg, South Carolina, USA. (Fall 2023).
 
 https://www.claflin-computation.com/_files/ugd/81dd80_96b364c5abee411f87e7f34712d74641.docx?dn=Taonga%20Thesis.docx
 
@@ -63,7 +63,7 @@ https://www.claflin-computation.com/_files/ugd/81dd80_b2614de5a6094d2885e75cda99
 
 https://github.com/JoshuaKiplimo
 
-**Mr. Joshua Kiprano, Poster, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA.
+**Mr. Joshua Kiprano  π​++., Poster, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA.
 
 Thesis: Natural Language Processing in managing and tracking applications (Fall 2022). (South Carolina Independent Colleges & Universities SCICU award funded project​)
 
@@ -83,7 +83,7 @@ Thesis presentation: https://youtu.be/Jx6Q7TaISIU
 
 https://github.com/ndubuisx
 
-**Mr. Emmanuel Ndubuisi, Undergraduate student: Claflin University, Orangeburg, South Carolina, USA.
+**Mr. Emmanuel Ndubuisi  π​++., Undergraduate student: Claflin University, Orangeburg, South Carolina, USA.
 
 Thesis: Protein Classification Using Embeddings from Language Models Trained on Amino Acid.
 
@@ -162,8 +162,8 @@ https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-a6104b66-064c-4cd4
 https://github.com/spawar2/Blood-Cancer-Analysis
 https://e9e98463-8269-4e88-8a40-100f62e9ee37.filesusr.com/ugd/81dd80_df1c4091f3b347009b40bcfe47355aab.docx?dn=Etha%20project%20report.docx![image](https://github.com/spawar2/BTEC599-Biotechnology-Research-I/assets/25118302/26f8c330-443d-42af-a919-b03a02a2e1a8)
 
-Title III and Special Initiative Office SEED Funding, Claflin University: Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) (2024): Total Award (direct and indirect) $8,840.00 Students supported **Lierra Rivera and **Kalyn Wesby https://www.claflin.edu/ Role: PI, 100%.
-**Germari Cull: https://www.linkedin.com/in/germari-cull-a9b980264
+Title III and Special Initiative Office SEED Funding, Claflin University: Biomarker Identification for the Diagnosis of Chronic Lymphocytic Leukemia (CLL) (2024): Total Award (direct and indirect) $8,840.00 Students supported **Lierra Rivera and **Kalyn Wesby π​++. https://www.claflin.edu/ Role: PI, 100%.
+**Germari Cull π​++.: https://www.linkedin.com/in/germari-cull-a9b980264
 https://github.com/spawar2/BTEC599-Biotechnology-Research-I
 https://www.linkedin.com/in/leiara-rivera-3a3069233
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
