@@ -1,6 +1,6 @@
 Learning Objectives [# BTEC599/699-Biotechnology-Research-I](https://pawar1550.wixsite.com/claflin-courses/copy-of-inbre-epscor-ret-2)
 BTEC599/699 Research I (1 Credit)) 5 students https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
-December, 9, 2024.
+Date created/updated: December, 9, 2024.
 Research Students GitHub Projects: Student-GitHub-Projects.
 
 ​https://www.claflin.edu/ Claflin University, Orangeburg, South Carolina, United States of America (USA). https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
