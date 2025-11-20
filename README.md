@@ -44,7 +44,7 @@ Thesis presentation: https://youtu.be/NUPr-kXKCaU
 ​
 
 **Leiara C. Rivera  π​++.(Graduate student), Undergraduate student: Claflin University, SOrangeburg, outh Carolina, USA. (Fall 2023). Biomarker discovery.
-
+Presently doctoral student at Clemson University, Bioengineering Program, School of Computing, Biomedical Data Science & Informatics
 ​
 
 Neural networks on CTA in peripheral arterial diseases (PAD): https://github.com/spawar2/CTA-PAD-Neural-Nets
