@@ -1,5 +1,5 @@
 Learning Objectives [# BTEC 599/699-Biotechnology-Research-I](https://pawar1550.wixsite.com/claflin-courses/copy-of-inbre-epscor-ret-2)
-BTEC 599/699 Research I (1 Credit)) 5 students https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
+BTEC 599/699 Research I (1 Credit)) 5 students https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf Class Location: James S. Thomas (JST) Building 225, 400 Magnolia St, Claflin University, South Carolina, USA; Timings: Monday-Friday, 10AM-5PM.
 Date created/updated: December, 9, 2024.
 Research Students GitHub Projects: Student-GitHub-Projects.
 https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
